@@ -1,0 +1,1 @@
+## Instalando e configurando o Expo em seu projeto
